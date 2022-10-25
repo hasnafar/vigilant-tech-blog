@@ -13,6 +13,6 @@ On the dashboard, the user can see past blog posts. The user can also create a n
 
 # Links
 
-Deployed URL - 
+Deployed URL - https://vigilant-tech-blog.herokuapp.com/
 
 GitHub Repo - https://github.com/hasnafar/vigilant-tech-blog
