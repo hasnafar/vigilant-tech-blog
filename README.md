@@ -6,6 +6,11 @@ Once logged in, the user can see the dashboard.
 
 On the dashboard, the user can see past blog posts. The user can also create a new blog post. The user can write a title and then write the content of their post. The post will show up on the dashboard once refreshed. The page will display the title, author, and content of the blog post. The user can click the "log out" button on the navigation bar to log out at any given point of time.
 
+# Screenshots
+![](./public/images/Dashboard.png.png)
+![](./public/images/Signup.png)
+![](./public/images/Login.png)
+
 # Links
 
 Deployed URL - 
