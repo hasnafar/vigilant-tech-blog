@@ -1,0 +1,29 @@
+
+
+<section class="prevPosts">
+
+    {{#each array}}
+    <table class="table table-bordered">
+      <thead class="thead-dark">
+        <tr id="history-input">
+            <th scope="col">{{this.dataValues.title}} Posted by: {{this.dataValues.name}}</th>
+         </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <th scope="row">{{this.dataValues.content}}</th>
+            </tr>
+        </tbody>
+       
+    {{/each}}
+    </table>
+
+</section>
+<section class="newPost">
+    <input type="text" class="title" placeholder="Title"></input>
+    <textarea class="content"></textarea>
+    <button class="post btn-dark">Post</button>
+</section>
+
+<script src="./js/logout.js"></script>
+<script src="./js/dashboard.js"></script>
