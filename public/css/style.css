@@ -1,0 +1,81 @@
+header {
+  background-color: black;
+}
+h1 {
+  /* text-align: center; */
+  font-size: 4.5rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 40px;
+  font-weight: bold;
+}
+
+h1 span {
+  color: black;
+  border: 1px solid darkseagreen;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 5px 10px grey;
+  border-radius:25px;
+  background-color: darkseagreen;
+}
+
+.tech{
+  background-color: black;
+  color: darkseagreen;
+}
+
+.btn {
+  font-family: sans-serif;
+  color:darkseagreen;
+}
+
+#nav-buttons {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.btn-space{
+  margin-right:10px;
+}
+
+body {
+background-color: darkseagreen;
+}
+
+.card {
+  margin: 0 auto;
+  float: none; 
+  margin-bottom: 10px;
+}
+
+.table th {
+  border:1px solid black;
+}
+
+.table tr {
+  border:1px solid black;
+}
+
+.form-group, .form-input {
+  font-family: sans-serif;
+  font-family: 15px;
+}
+
+.newPost{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+  margin-top: 40px;
+}
+.content{
+  height: 200px;
+}
+.title{
+  width: 200px;
+}
+.post{
+  width:50px;
+}
+
